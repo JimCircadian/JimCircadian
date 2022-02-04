@@ -1,4 +1,6 @@
-### Hi there 👋
+#### JimCircadian, Research Software Engineer for the British Antarctic Survey
+
+I'll stick some information here soon. 🚀
 
 <!--
 **JimCircadian/JimCircadian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
