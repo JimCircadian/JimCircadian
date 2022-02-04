@@ -1,4 +1,4 @@
-#### JimCircadian, Research Software Engineer for the British Antarctic Survey
+Welcome to the Github home of James Byrne, Research Software Engineer at the British Antarctic Survey
 
 I'll stick some information here soon. 🚀
 
