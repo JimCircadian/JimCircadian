@@ -1,4 +1,4 @@
-Welcome to the personal Github home of James Byrne, Research Software Engineer (RSE) at the British Antarctic Survey (BAS). 
+Welcome to the personal Github home of James Byrne, Research Software Engineer Lead (RSE) at the British Antarctic Survey (BAS). 
 
 <!--**JimCircadian/JimCircadian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
