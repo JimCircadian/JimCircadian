@@ -1,4 +1,4 @@
-Welcome to the personal Github home of James Byrne, Research IT Compute Lead at the University of Exeter.
+Welcome to the personal Github home of James Byrne, Digital Research Compute Lead at the University of Exeter.
 
 I work on tools and systems that underpin Digital Research Infrastructure. On GitHub you'll find tools that I use to maintain or run servers. I used to work at the [British Antarctic Survey](https://www.bas.ac.uk), so have a computational domain interest leaning towards the environmental sciences. Previously I worked for industry in various forms, but that's long behind me... :wink:
 
